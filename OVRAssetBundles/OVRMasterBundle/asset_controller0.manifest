@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 23579174
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 573a74fea0bbf1cf8946df558bed1392
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtMaterial/Animation/Door.controller
+- Assets/ArtMaterial/Animation/Button.controller
+- "Assets/ArtMaterial/Animation/\u8F93\u5165\u623F\u95F4\u5BC6\u7801.controller"
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/LeftHandAnimator.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/RightHandAnimator.controller
+Dependencies:
+- C:/Users/Win10/Documents/Escape/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/Win10/Documents/Escape/OVRAssetBundles/OVRMasterBundle/asset_fbx0

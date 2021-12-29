@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 293657006
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fd2c59db5b22de95a7dbc7d86197a8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtMaterial/Animation/ButtonUp.anim
+- Assets/ArtMaterial/Animation/ButtonDown.anim
+- Assets/ArtMaterial/Animation/DoorOpen.anim
+- "Assets/ArtMaterial/Animation/\u5F39\u51FA\u8F93\u5165\u5BC6\u7801.anim"
+Dependencies: []

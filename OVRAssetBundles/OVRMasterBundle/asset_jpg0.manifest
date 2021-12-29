@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 507356468
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30130a042afca3cf44d2ebaa1d60953e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtMaterial/Model/old-book/textures/e1d2f6d9b892fca643eb74ba448b6cb2.jpg
+- Assets/ArtMaterial/Model/old-book/textures/BookSide0047_2_XL.jpg
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/wood.jpg"
+Dependencies: []

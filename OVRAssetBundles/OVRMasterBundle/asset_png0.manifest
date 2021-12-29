@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 408021393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8e088096dc65af7ecb17ec242b74cab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8fbbef66ee259249ffe96f6e1a424fc6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtMaterial/Texture/BookPage.png
+- Assets/ArtMaterial/Model/NPC/Materials/eye.png
+- Assets/ArtMaterial/Model/old-book/textures/Untitled-1.png
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/GT-Material/brick_1.png"
+- Assets/Mirror/Icon/MirrorIcon.png
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/GT-Material/brick1_normalMap.png"
+- Assets/ArtMaterial/Texture/prison.png
+- Assets/Oculus/SampleFramework/Usage/Passthrough/Materials/UIelement.png
+- Assets/Oculus/SampleFramework/Core/CustomHands/Textures/noise_01.png
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/GT-Material/\u74F7\u7816\u6E10\u53D8.png"
+- Assets/ArtMaterial/Texture/noise.png
+- "Assets/ArtMaterial/Model/\u72EC\u773C/materials/\u72EC\u773C\u53F3\u773C.png"
+- "Assets/ArtMaterial/Model/\u98DF\u5802/\u98DF\u5802\u6750\u8D28\u5305/GT-Materials/WoodWhite.png"
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/noise_01.png
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/wood_normal.png"
+- "Assets/ArtMaterial/Model/\u72F1\u8B66/Materials/eye.png"
+- Assets/ArtMaterial/SkyBox/AllSky_Space_AnotherPlanet Equirect.png
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/GT-Material/brick1_heightMap.png"
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/GT-Material/\u5899\u4F53\u6E10\u53D8.png"
+- "Assets/ArtMaterial/Texture/\u72AF\u4EBA.png"
+- "Assets/ArtMaterial/Model/\u98DF\u5802/\u98DF\u5802\u6750\u8D28\u5305/GT-Materials/WoodWhiteNormal.png"
+- Assets/ArtMaterial/_Creepy_Cat/3D Games Effects Pack Free/_Materials/Effect_05_8x8-64.png
+Dependencies: []

@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!244 &-8703296969789636019
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: b4871d6d41963f04fba7f6225bf440f4
+  m_EffectName: OculusSpatializerReflection
+  m_MixLevel: ec6ccf213394d98408f7d710e2b66fd1
+  m_Parameters:
+  - m_ParameterName: GScale
+    m_GUID: e7babd2d225826f4b893b376d0a25dac
+  - m_ParameterName: E.Rflt On
+    m_GUID: 57c285865ebf5af4ca44b7b4243ad5fc
+  - m_ParameterName: E.Rflt Rev On
+    m_GUID: 7df20d2409bbe8044a119289013e3e62
+  - m_ParameterName: Room X
+    m_GUID: fcda77c891fbe9847bdb32b89729c270
+  - m_ParameterName: Room Y
+    m_GUID: c922318df9470aa46898a6a3819ec92c
+  - m_ParameterName: Room Z
+    m_GUID: 45e411ce7e2bc81408a5b541ebe43512
+  - m_ParameterName: Left
+    m_GUID: c391cdab18b501b4f80482b92c3543a6
+  - m_ParameterName: Right
+    m_GUID: 83d3ca8a1e3238343a5f196456d50680
+  - m_ParameterName: Up
+    m_GUID: ad45d39a73d6e1547a57303864d83f98
+  - m_ParameterName: Down
+    m_GUID: 5ba822764b31da64fa2e4dc3f0ec18b2
+  - m_ParameterName: Behind
+    m_GUID: df5a2801ee7e2e64894cb7f268bb9f12
+  - m_ParameterName: Front
+    m_GUID: 983f0554e1233f04284078f2e8afa923
+  - m_ParameterName: Shared Rev Min
+    m_GUID: d06deb63d3b4ef649bcbc637659b2130
+  - m_ParameterName: Shared Rev Max
+    m_GUID: 0a23c024d2a09fc409a3782c05f10bec
+  - m_ParameterName: Shared Rev Wet
+    m_GUID: 9d4257a47ac2a0f4d887ace2b8a15e8d
+  - m_ParameterName: Prop Quality
+    m_GUID: 6841865caf85278439538ad422729449
+  - m_ParameterName: Voice Limit
+    m_GUID: 7e51c01be56b9894db3e9e47789a27db
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
+--- !u!244 &-1457683982493488486
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: d0cc01476e4e452489261d1077f9a1a3
+  m_EffectName: OculusSpatializerReflection
+  m_MixLevel: 4d3906c0d833eff4cab5018dcb9f5a6b
+  m_Parameters:
+  - m_ParameterName: GScale
+    m_GUID: ff486f7c837a2c147a7c4ec72e4c104d
+  - m_ParameterName: E.Rflt On
+    m_GUID: 506b3c7cccce54c4a83c5cadf65ce487
+  - m_ParameterName: E.Rflt Rev On
+    m_GUID: ec41182655eb9c94d83ca04539557550
+  - m_ParameterName: Room X
+    m_GUID: 23b98f2439de67049b7a643821ebf7e3
+  - m_ParameterName: Room Y
+    m_GUID: 0522759d75cb2134aa5ceb09b340168b
+  - m_ParameterName: Room Z
+    m_GUID: 9eb1bf8168e6f754a85ee76a8f1c930e
+  - m_ParameterName: Left
+    m_GUID: d14ccfeb5712b8c47a22ee0218ae1c67
+  - m_ParameterName: Right
+    m_GUID: f7d481df037525d4792e3ca10ac03812
+  - m_ParameterName: Up
+    m_GUID: 8ffba38403b42bb4f9327a3592f6c9ce
+  - m_ParameterName: Down
+    m_GUID: 9aaf228dfa11148469fb944a7d6f0933
+  - m_ParameterName: Behind
+    m_GUID: ce822dbb0a0c16e43bc5da7bd59b2497
+  - m_ParameterName: Front
+    m_GUID: 450983c911dab8142a8bc5a3eded17f1
+  - m_ParameterName: Shared Rev Min
+    m_GUID: b5e353f912f7690418881c26f8887186
+  - m_ParameterName: Shared Rev Max
+    m_GUID: ff7000f2ac07cad4ab8964025a73e8dd
+  - m_ParameterName: Shared Rev Wet
+    m_GUID: c1fe50aa3bd8f6348b466fc40c33dda3
+  - m_ParameterName: Prop Quality
+    m_GUID: 243f45cc48877e54881af3c06f1e20df
+  - m_ParameterName: Voice Limit
+    m_GUID: c2551949b59d36847978006373039b04
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
+--- !u!241 &24100000
+AudioMixerController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mixer
+  m_OutputGroup: {fileID: 0}
+  m_MasterGroup: {fileID: 24300002}
+  m_Snapshots:
+  - {fileID: 24500006}
+  m_StartSnapshot: {fileID: 24500006}
+  m_SuspendThreshold: -80
+  m_EnableSuspend: 1
+  m_UpdateMode: 0
+  m_ExposedParameters: []
+  m_AudioMixerGroupViews:
+  - guids:
+    - e2219f3da26d7ae42b92714363bc8c4d
+    name: View
+  m_CurrentViewIndex: 0
+  m_TargetSnapshot: {fileID: 24500006}
+--- !u!243 &24300002
+AudioMixerGroupController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Master
+  m_AudioMixer: {fileID: 24100000}
+  m_GroupID: e2219f3da26d7ae42b92714363bc8c4d
+  m_Children: []
+  m_Volume: aae6b6caacd6abe4c8a9162fb782d0dd
+  m_Pitch: 392a82668028b5d4ab649b54f81acbcd
+  m_Send: 00000000000000000000000000000000
+  m_Effects:
+  - {fileID: 24400004}
+  - {fileID: -8703296969789636019}
+  m_UserColorIndex: 0
+  m_Mute: 0
+  m_Solo: 0
+  m_BypassEffects: 0
+--- !u!244 &24400004
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: 7f3d78122a083e44895687f1381bd33e
+  m_EffectName: Attenuation
+  m_MixLevel: cf56726d13134004394b8d55a9f2f04b
+  m_Parameters: []
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
+--- !u!245 &24500006
+AudioMixerSnapshotController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Snapshot
+  m_AudioMixer: {fileID: 24100000}
+  m_SnapshotID: feb0ad5af519cb244a039afe9cb59c5f
+  m_FloatValues:
+    df5a2801ee7e2e64894cb7f268bb9f12: 0.5
+    9eb1bf8168e6f754a85ee76a8f1c930e: 55
+    ff7000f2ac07cad4ab8964025a73e8dd: 250
+    d06deb63d3b4ef649bcbc637659b2130: 1
+    0a23c024d2a09fc409a3782c05f10bec: 250
+    7df20d2409bbe8044a119289013e3e62: 0
+    23b98f2439de67049b7a643821ebf7e3: 35
+    983f0554e1233f04284078f2e8afa923: 0.5
+    8ffba38403b42bb4f9327a3592f6c9ce: 0.5
+    9d4257a47ac2a0f4d887ace2b8a15e8d: 0
+    ec41182655eb9c94d83ca04539557550: 0
+    5ba822764b31da64fa2e4dc3f0ec18b2: 0.5
+    57c285865ebf5af4ca44b7b4243ad5fc: 1
+    fcda77c891fbe9847bdb32b89729c270: 35
+    450983c911dab8142a8bc5a3eded17f1: 0.5
+    b5e353f912f7690418881c26f8887186: 1
+    83d3ca8a1e3238343a5f196456d50680: 0.5
+    ad45d39a73d6e1547a57303864d83f98: 0.5
+    c1fe50aa3bd8f6348b466fc40c33dda3: 0
+    aae6b6caacd6abe4c8a9162fb782d0dd: 0
+    c391cdab18b501b4f80482b92c3543a6: 0.5
+    ce822dbb0a0c16e43bc5da7bd59b2497: 0.5
+    d14ccfeb5712b8c47a22ee0218ae1c67: 0.5
+    6841865caf85278439538ad422729449: 100
+    506b3c7cccce54c4a83c5cadf65ce487: 1
+    ff486f7c837a2c147a7c4ec72e4c104d: 1
+    243f45cc48877e54881af3c06f1e20df: 100
+    e7babd2d225826f4b893b376d0a25dac: 1
+    c922318df9470aa46898a6a3819ec92c: 40
+    9aaf228dfa11148469fb944a7d6f0933: 0.5
+    0522759d75cb2134aa5ceb09b340168b: 40
+    45e411ce7e2bc81408a5b541ebe43512: 55
+    f7d481df037525d4792e3ca10ac03812: 0.5
+  m_TransitionOverrides: {}

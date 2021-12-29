@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1283284425
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5a78fbfa54bd727cf4b2956c4f7548e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6875ee26475503fc86923c4b06daad2b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtMaterial/Material/Brick.mat
+- "Assets/ArtMaterial/Model/\u4E3B\u83DC\u5355\u6A21\u578B/Materials/floor.mat"
+- Assets/ArtMaterial/Model/NPC/Materials/eye.mat
+- Assets/ArtMaterial/Model/NPC/Materials/RightEye.mat
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/GT-Material/GT-brick.mat"
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/steel.mat"
+- "Assets/ArtMaterial/Model/\u4E3B\u83DC\u5355\u6A21\u578B/Materials/wall.mat"
+- Assets/ArtMaterial/Model/NPC/Materials/Leg.mat
+- "Assets/ArtMaterial/Model/\u4E3B\u83DC\u5355\u6A21\u578B/Materials/water.mat"
+- Assets/ArtMaterial/Material/New Material 1.mat
+- "Assets/ArtMaterial/Model/\u98DF\u5802/\u98DF\u5802\u6750\u8D28\u5305/MODEL_COFFEE_WITH_LID_MATERIAL_2.mat"
+- "Assets/ArtMaterial/Model/\u98DF\u5802/\u98DF\u5802\u6750\u8D28\u5305/dustbin.mat"
+- Assets/ArtMaterial/Material/UIRay.mat
+- "Assets/ArtMaterial/Model/\u4E3B\u83DC\u5355\u6A21\u578B/Materials/No Name.mat"
+- Assets/ArtMaterial/Material/brick 1.mat
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/pencil.mat"
+- "Assets/ArtMaterial/Model/\u4E3B\u83DC\u5355\u6A21\u578B/Materials/mental.mat"
+- Assets/ArtMaterial/SkyBox/AllSky_Space_AnotherPlanet Equirect.mat
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/cup.mat"
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/GT-Material/GT-Wood.mat"
+- "Assets/ArtMaterial/Model/\u4E3B\u83DC\u5355\u6A21\u578B/Materials/bed.mat"
+- Assets/ArtMaterial/Model/NPC/Materials/Body.mat
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/wood.mat"
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/qiangti.mat"
+- "Assets/ArtMaterial/Model/\u4E3B\u83DC\u5355\u6A21\u578B/Materials/blue.mat"
+- Assets/ArtMaterial/_Creepy_Cat/3D Games Effects Pack Free/_Materials/Effect_05.mat
+- "Assets/ArtMaterial/Model/\u76D1\u72F1/\u76D1\u72F1\u6750\u8D28\u5305/GT-Material/GT-white.mat"
+- "Assets/ArtMaterial/Material/\u6C34.mat"
+- "Assets/ArtMaterial/Model/\u4E3B\u83DC\u5355\u6A21\u578B/Materials/spallow.mat"
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+Dependencies:
+- C:/Users/Win10/Documents/Escape/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Win10/Documents/Escape/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Win10/Documents/Escape/OVRAssetBundles/OVRMasterBundle/asset_shader0

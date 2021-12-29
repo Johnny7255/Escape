@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1635252822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 729a9cce6cf88f7ec490207f931c5e5a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a198144cb4c85cbc59474c9cc2fa713a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtMaterial/Fonts/28 Days Later.ttf
+- Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Dependencies: []
