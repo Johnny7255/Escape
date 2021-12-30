@@ -24,8 +24,16 @@ Need Unity Android Build Support
 7. Tips: if there already an apk in the device, you can **Open Oculus tab in Unity Editor Window -> Select OVR Build -> OVR Scene Quick Preview**, you can use build and deploy scenes to have a quick start. **If you modified codes, you need tap Build and Deploy App**
 
 ## Contributors
+### Programmers
+1. Bingyu Yao(Rending and shader) [Bingyu Yao's Github](https://github.com/Guiny-Time)
+2. Chenxi Song(Backend Programming) [Chenxi Song's Gitee](https://gitee.com/song-chengxin)
+3. Feiyang Ge(Game Logic) [Feiyang Ge's Gitee](https://gitee.com/gefeiyanggfy)
+4. Qi Chen(Game Logic) (Qi Chen's Email: 1554850165@qq.com)
+5. Wen Hu( Game Logic) [Wen Hu's Github](https://github.com/Johnny7255)
 
-
+### Modeling
+1. Rongyang Chen (Rongyang Chen's Email: 554805453@qq.com)
+2. Ziqin Lin (Ziqin Lin's Email: 2425937909@qq.com)
 
 
 
