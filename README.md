@@ -23,6 +23,8 @@ Need Unity Android Build Support
 6. Build and run the project, the game will running on the Oculus.
 7. Tips: if there already an apk in the device, you can **Open Oculus tab in Unity Editor Window -> Select OVR Build -> OVR Scene Quick Preview**, you can use build and deploy scenes to have a quick start. **If you modified codes, you need tap Build and Deploy App**
 
+## Contributors
+
 
 
 
