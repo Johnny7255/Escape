@@ -34,7 +34,7 @@ Need Unity Android Build Support
 
 ### Modeling
 1. Rongyang Chen (Rongyang Chen's Email: 554805453@qq.com)
-2. Ziqing Lin (Ziqin Lin's Email: 2425937909@qq.com)
+2. Ziqing Lin (Ziqing Lin's Email: 2425937909@qq.com)
 
 
 
